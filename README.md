@@ -6,6 +6,10 @@
 pip install requirements.txt
 ```
 
+## Data
+
+Spheres with refining levels from 0 to 8 are stored in the data folder.
+
 ## Visualize sphere
 
 To visualize the sphere with 4 levels of refining:
